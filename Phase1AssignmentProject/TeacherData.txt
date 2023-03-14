@@ -1,0 +1,5 @@
+101|karthik|7std|a
+102|dhruv|1std|s
+103|ram|9std|b
+104|vikas|7std|c
+105|gautham|3std|c

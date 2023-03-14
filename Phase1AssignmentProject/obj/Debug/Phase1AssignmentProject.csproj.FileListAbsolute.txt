@@ -1,0 +1,7 @@
+C:\Users\kmk\OneDrive - ALLEGIS GROUP\Documents\TRAINING\PRACTICE\Phase1AssignmentProject\Phase1AssignmentProject\Phase1AssignmentProject\bin\Debug\Phase1AssignmentProject.exe.config
+C:\Users\kmk\OneDrive - ALLEGIS GROUP\Documents\TRAINING\PRACTICE\Phase1AssignmentProject\Phase1AssignmentProject\Phase1AssignmentProject\bin\Debug\Phase1AssignmentProject.exe
+C:\Users\kmk\OneDrive - ALLEGIS GROUP\Documents\TRAINING\PRACTICE\Phase1AssignmentProject\Phase1AssignmentProject\Phase1AssignmentProject\bin\Debug\Phase1AssignmentProject.pdb
+C:\Users\kmk\OneDrive - ALLEGIS GROUP\Documents\TRAINING\PRACTICE\Phase1AssignmentProject\Phase1AssignmentProject\Phase1AssignmentProject\obj\Debug\Phase1AssignmentProject.csproj.AssemblyReference.cache
+C:\Users\kmk\OneDrive - ALLEGIS GROUP\Documents\TRAINING\PRACTICE\Phase1AssignmentProject\Phase1AssignmentProject\Phase1AssignmentProject\obj\Debug\Phase1AssignmentProject.csproj.CoreCompileInputs.cache
+C:\Users\kmk\OneDrive - ALLEGIS GROUP\Documents\TRAINING\PRACTICE\Phase1AssignmentProject\Phase1AssignmentProject\Phase1AssignmentProject\obj\Debug\Phase1AssignmentProject.exe
+C:\Users\kmk\OneDrive - ALLEGIS GROUP\Documents\TRAINING\PRACTICE\Phase1AssignmentProject\Phase1AssignmentProject\Phase1AssignmentProject\obj\Debug\Phase1AssignmentProject.pdb
